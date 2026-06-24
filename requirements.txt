@@ -1,0 +1,8 @@
+torch>=2.9.1
+numpy
+pygame
+tensorboard
+tqdm
+opencv-python
+matplotlib
+
